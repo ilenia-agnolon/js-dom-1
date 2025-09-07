@@ -45,4 +45,5 @@ body {
     color: rgb(92, 92, 92);
     text-align: center;
     border-radius: 20px;
+    cursor: pointer;
 }
