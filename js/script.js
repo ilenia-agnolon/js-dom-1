@@ -1,5 +1,5 @@
+//SELEZIONE 
 const myLampOff = document.querySelector(".off-lamp");
-const myLampOn = document.querySelector(".on-lamp");
 const myButton = document.querySelector(".my-button");
 
 
